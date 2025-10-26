@@ -1,4 +1,4 @@
-"ID_Transaccion,Fecha,ID_Producto,Nombre_Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Pais,Metodo_Pago"
+,"ID_Transaccion,Fecha,ID_Producto,Nombre_Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Pais,Metodo_Pago"
 ,"T1001,2024-01-05,P201,Audifonos Bluetooth,Audio,2,45.00,90.00,México,Tarjeta"
 ,"T1002,2024-01-08,P205,Mouse Inalambrico,Periférico,1,25.50,25.50,Chile,PayPal"
 ,"T1003,2024-01-12,P201,Audifonos Bluetooth,Audio,3,45.00,135.00,Colombia,Tarjeta"
