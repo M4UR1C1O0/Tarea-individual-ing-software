@@ -27,7 +27,8 @@ Intuitivo: Ser fácil de usar para cualquier persona del equipo.
 Visual: Utilizar gráficos y tablas para una rápida comprensión.
 Interactivo: Permitir a los usuarios filtrar los datos por fecha o producto.
 Los Datos
-A continuación, se presenta un conjunto de datos simulado (simplificado para el taller) de 100 registros de ventas. Cada registro representa una única transacción. (lo pueden descargar en canvas)
+A continuación, se presenta un conjunto de datos simulado (simplificado para el taller) de 100 registros de ventas. Cada registro representa una única transacción. (lo pueden descargar en canvas).
+
 Pasos a Seguir
 Los/as estudiantes deben seguir el siguiente proceso para resolver el caso de estudio:
 Extracción y Preparación de Datos: Importar el archivo .csv en su entorno de trabajo. Limpiar y validar los datos para asegurar que no haya errores.
@@ -35,7 +36,9 @@ Transformación de Datos: Calcular métricas agregadas como:
 Ventas totales por mes.
 Cantidad de productos vendidos por categoría.
 Ingresos por cada producto.
-Visualización: Generar los siguientes gráficos:
+
+Visualización
+Generar los siguientes gráficos:
 Gráfico de líneas para mostrar las ventas totales mensuales.
 Gráfico de barras para mostrar los top 5 productos más vendidos (por total de venta o cantidad).
 Gráfico de pastel para la distribución de métodos de pago.
